@@ -1,4 +1,3 @@
-import streamlit as st
 from pages import home, upload_report, recommendations, track_health, community, profile
 from chatbot.app import setup_chatbot  # Import the function from chatbot
 
